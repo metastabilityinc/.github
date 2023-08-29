@@ -9,6 +9,9 @@ Our team is a mix of AI researchers, developers, and enthusiasts. Join us to con
 Connect with us: Follow us on Twitter | Join us on LinkedIn
 
 Have questions or ideas? We'd love to hear from you:
+
 Email: metatabilityinc@gmail.com
+
 Website: https://metastability.ai
+
 Location: CA USA
