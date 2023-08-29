@@ -1,12 +1,14 @@
-## Hi there 👋
+Welcome to Metastability GitHub!
 
-<!--
+We're passionate about harnessing the power of artificial intelligence to drive innovation and solve complex challenges, software and web development.
 
-**Here are some ideas to get you started:**
+We're on a mission to advance AI technologies and make them accessible to all. Our focus is on developing cutting-edge AI solutions that address developments problems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our team is a mix of AI researchers, developers, and enthusiasts. Join us to contribute, collaborate, and shape the future of AI. Together, we're making AI development inclusive and collaborative.
+
+Connect with us: Follow us on Twitter | Join us on LinkedIn
+
+Have questions or ideas? We'd love to hear from you:
+Email: metatabilityinc@gmail.com
+Website: https://metastability.ai
+Location: CA USA
