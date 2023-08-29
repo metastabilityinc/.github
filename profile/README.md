@@ -6,11 +6,12 @@ We're on a mission to advance AI technologies and make them accessible to all. O
 
 Our team is a mix of AI researchers, developers, and enthusiasts. Join us to contribute, collaborate, and shape the future of AI. Together, we're making AI development inclusive and collaborative.
 
-Connect with us: Follow us on Twitter | Join us on LinkedIn
+Connect with us: 
+[Follow us on Twitter](https://twitter.com/_metastability) | [Join us on LinkedIn](https://www.linkedin.com/company/metastability/)
 
 Have questions or ideas? We'd love to hear from you:
 
-Email: metatabilityinc@gmail.com
+Email: metastabilityinc@gmail.com
 
 Website: https://metastability.ai
 
