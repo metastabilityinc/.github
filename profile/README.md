@@ -11,7 +11,7 @@ Connect with us:
 
 Have questions or ideas? We'd love to hear from you:
 
-Email: metastabilityinc@gmail.com
+Email: inc@metastability.ai
 
 Website: https://metastability.ai
 
